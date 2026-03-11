@@ -30,7 +30,7 @@ export const HomePage = ({
         <div className="text-center max-w-4xl mx-auto px-4 sm:px-6">
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold mb-3 sm:mb-4 leading-tight">
             Din guide til<br className="hidden sm:block" />
-            <span className="sm:hidden"> </span>norsk jaktliv YOYOY
+            <span className="sm:hidden"> </span>norsk jaktliv
           </h1>
           <p className="text-sm sm:text-base md:text-lg lg:text-xl mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed" style={{color: '#E8F5F0'}}>
             Utforsk den rike jakttradisjonen i Norge. Fra nybegynner til erfaren jeger – finn alt du trenger å vite om jakt på norsk vilt og våpen.
